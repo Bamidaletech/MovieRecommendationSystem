@@ -36,7 +36,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone (https://github.com/Bamidaletech/MovieRecommendationSytem).git
+git clone (https://github.com/Bamidaletech/MovieRecommendationSystem).git
 cd movierecommendationsystem
 Install the required libraries:
 
